@@ -1,0 +1,137 @@
+body {
+    margin: 0px;
+    text-align: center;
+    /* font-family: Arial Rounded MT Bold,Helvetica Rounded,Arial,sans-serif; */
+    font-family: 'Noto Serif', serif;
+}
+
+h1 {
+    color: #99A799;
+    font-family: 'Euphoria Script', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0px auto;
+}
+
+h2 {
+    color: #99A799;
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    
+}
+
+h3 {
+    color: #ADC2A9;
+    font-family: 'Inter Tight', sans-serif;
+}
+
+a {
+    color: #99A799;
+    font-family: 'Noto Serif', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FEF5ED;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border-color: #D3E4CD;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    width: 3%;
+    margin: 100px auto;
+}
+
+.top-container {
+    background-color: #FEF5ED;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0px;
+}
+
+.bottom-container {
+    background-color: #ADC2A9;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.underlining {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
+
+.profile-text {
+    width: 50%;
+    margin: 0px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 150px;
+    text-align: left;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.analytics-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me {
+    width: 50%;
+    margin: auto;
+}
+
+.contact-me-text {
+    margin-bottom: 3rem;
+}
+
+.copyright-text {
+    color: #FEF5ED;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Inter Tight', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #ADC2A9;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #D3E4CD;
+    text-decoration: none;
+  }
